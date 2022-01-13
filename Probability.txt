@@ -1,0 +1,54 @@
+Probability:
+A probability is a number that reflects the chance or likelihood that a particular event will occur. 
+Probability ranges between 0 to 1.
+
+The probability of an event is:
+The Number of ways it can happen / The number of possible outcomes.
+
+Mutual Exclusive Event and Mutual Inclusive Event:
+
+Mutual Exclusive Event: mutually exclusive events are the events if they cannot both occur at the same time. 
+A clear example is the set of outcomes of a single coin toss, which can result in either heads or tails, but not both.
+P(A or B)=P(A)+P(B)
+
+Mutually inclusive:
+Mutually inclusive events allow both events to happen at the same time or occur in a single trial.
+P(A or B) = P(A) + P(B) - P(A ∩ B)
+
+Independent events:
+Two events are independent if the outcome or occurrence of the first does not affects the outcome or occurrence of the second .
+When two events, A and B, are independent, the probability of both occurring is: 
+P(A and B)  =  P(A) · P(B)
+
+Example:
+You flip a coin and get a head and you flip a second coin and get a tail.The two coins don’t influence each other.
+
+Dependent events:
+Two events are dependent if the outcome or occurrence of the first affects the outcome or occurrence of the second so that 
+the probability is changed. 
+When two events, A and B, are dependent, the probability of both occurring is: P(A and B)  =  P(A) · P(B/A)
+
+Conditional probability:
+Conditional probability is the probability of an event occurring given that another event has already occurred.
+P(A/B) = P(A and B)/P(B)
+
+Bayes’ theorem:
+Another way of calculating conditional probability is by using the Bayes’ theorem. The theorem can be used to determine
+the conditional probability of event A, given that event B has occurred, by knowing the conditional probability of event B, 
+given the event A has occurred, as well as the individual probabilities of events A and B. 
+P(A/B) = [P(B/A)*p(A)]/P(B)
+
+Assignments:
+Q.)What is probability?
+Q.)Define mutually exclusive and non mutually exclusive events.
+Q.)Define independent and dependent events.
+Q.)Explain Conditional probability.
+Q.)Explain Bayes Theorem.
+Q.)What is the probability of spinning a prime number or an odd number on a spinner numbered 1 to 8?
+Q.)For numbers, one to nine, find the probability of getting a number  2  or no.  less than 4?
+Q.)Let X and Y are two independent events such that P(X) = 0.3 and P(Y) = 0.7. Find P(X and Y)
+
+
+
+
+
